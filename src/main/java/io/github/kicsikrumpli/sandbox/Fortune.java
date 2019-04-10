@@ -5,10 +5,6 @@ import java.util.Objects;
 public class Fortune {
     private String fortune;
 
-    public Fortune(String fortune) {
-        this.fortune = fortune;
-    }
-
     public String getFortune() {
         return fortune;
     }
